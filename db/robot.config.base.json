@@ -1,0 +1,5 @@
+{
+    "api_url": "http://localhost:3010",
+    "socket_url": "ws://localhost:3010",
+    "versionURL":"https://robot-versions.carlosdanaraujo.workers.dev/latest"
+}
